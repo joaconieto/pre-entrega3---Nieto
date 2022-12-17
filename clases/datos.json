@@ -1,0 +1,44 @@
+[
+    {
+        "_id": 0,
+        "_img": "/Images/Album%201.png",
+        "_description": "Album 1",
+        "_price": 12.99,
+        "_quantity": 1
+    },
+    {
+        "_id": 1,
+        "_img": "/Images/Album%202.png",
+        "_description": "Album 2",
+        "_price": 14.99,
+        "_quantity": 1
+    },
+    {
+        "_id": 2,
+        "_img": "/Images/Album%203.png",
+        "_description": "Album 3",
+        "_price": 9.99,
+        "_quantity": 1
+    },
+    {
+        "_id": 3,
+        "_img": "/Images/Album%204.png",
+        "_description": "Album 4",
+        "_price": 19.99,
+        "_quantity": 1
+    },
+    {
+        "_id": 4,
+        "_img": "/Images/Shirt.png",
+        "_description": "T-Shirt",
+        "_price": 19.99,
+        "_quantity": 1
+    },
+    {
+        "_id": 5,
+        "_img": "/Images/Cofee.png",
+        "_description": "Coffee Cup",
+        "_price": 6.99,
+        "_quantity": 1
+    }
+]
